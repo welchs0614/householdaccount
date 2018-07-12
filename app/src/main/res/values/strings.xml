@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">household account</string>
+    <string name="hallo">おはよう</string>
+    <string name="textview">TextView</string>
+</resources>
